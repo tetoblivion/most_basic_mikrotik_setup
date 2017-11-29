@@ -1,0 +1,17 @@
+netinstall
+.npk
+winbox
+----------
+interfaces -eth 
+           -lte
+
+IP->Addresses
+IP->DHCP Client
+IP->DHCP Server
+IP->Firewall->nat
+IP->Routes
+
+
+
+
+
